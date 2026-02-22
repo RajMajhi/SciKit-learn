@@ -1,5 +1,5 @@
 # SciKit-learn 
-## using specific version i.e 0.23.0
+## using specific version i.e 1.8.0
 
 Part1. Scikit-Learn
 
