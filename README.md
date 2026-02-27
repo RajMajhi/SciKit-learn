@@ -44,8 +44,8 @@ It contains:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/username/repo-name.git
+cd -repo-name
 ```
 
 Install required libraries:
@@ -71,11 +71,6 @@ python main.py
 ```
 
 ---
-
-## Model Used
-
-* K-Nearest Neighbors (KNN)
-* (You can also mention Logistic Regression / Decision Tree if used)
 
 Example import:
 
